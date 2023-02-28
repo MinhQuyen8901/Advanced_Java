@@ -1,0 +1,7 @@
+1. Viet ctr tinh diện tích, chu vi hình chữ nhật
+a. hãy viết lớp HinhChuNhat gồm có:
+- Attributes: chiều dài, chieu rộng.
+- Phương thức thết lập (set), và lấy (get) thông tin chiều dài, chiều rộng
+- Phương thức tính diện tích, chu vi
+- Phương thức toString gồm các thông tin dài, rộng, diện tích, chu vi
+b. Xây dựng lớp Test chứa hàm main cho phần kiểm nghiệm. Dài rộng có thể nhập từ bàn phím
